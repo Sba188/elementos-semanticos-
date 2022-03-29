@@ -1,0 +1,60 @@
+
+/* Selectores por etiquetas HTML */
+ h1{
+        color:rgb(236, 20, 20)
+    }
+    h2{
+       background-color: #6666CC;
+        color: #FF6699;
+    }
+    p{
+        color: #FF2407;
+    }
+    dt{
+        color: #FF00CF;
+    }
+    dd{
+        color: #FF3333;
+    }
+    h3{
+        color: #FF6699;
+    }
+    em{
+        color: #FF6699;
+    }
+    strong{
+        color: #FF6699;
+    }
+    u{
+        color: springgreen;
+    }
+    a{
+        color: red;
+    }
+    body{
+        background-color: #3200FF;
+    }
+    /* Selector ID /*
+    /*
+    #parrafo{
+        color (el color);
+    } 
+    /*
+    /*  Un comentario de CSS /* 
+    ANATOMIA DEL CSS
+
+    selector{
+        propiedad: valor;
+        propiedad: valor;
+    }
+  /* imagenes*/
+  #foto-de-chaco{
+      /* ancho */
+      width: 550px;
+      /* alto */ 
+      height: 750px;
+  } 
+  #fotos{
+      width: 950px;
+      height: 950px;
+  }
