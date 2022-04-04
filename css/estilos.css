@@ -32,7 +32,18 @@
         color: red;
     }
     body{
-        background-color: #3200FF;
+        background-color: #3f1dc7;
+    }
+    td{
+        background-color: #fffb07;
+    }
+    tr{
+        background-color: aqua;
+    }
+    table{
+        background-color: deeppink;
+        width: 100%;
+        height: 100%;
     }
     /* Selector ID /*
     /*
